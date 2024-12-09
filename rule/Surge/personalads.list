@@ -1,8 +1,8 @@
 #NAME: Personalads
 #GENERATE FROM: https://github.com/malikshi/open_clash/blob/main/rule_provider/rule_personalads.yaml
-#DOMAIN-SUFFIX: 244
+#DOMAIN-SUFFIX: 257
 #DOMAIM-KEYWORD: 45
-#TOTAL: 289
+#TOTAL: 302
 DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,pagead2.googleadservices.com
 DOMAIN-SUFFIX,ads.google.com
@@ -95,6 +95,7 @@ DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,metrika.yandex.ru
 DOMAIN-SUFFIX,click.sender.yandex.ru
 DOMAIN-SUFFIX,share.yandex.ru
+DOMAIN-SUFFIX,adfstat.yandex.ru
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,mobile.yandexadexchange.net
 DOMAIN-SUFFIX,google-analytics.com
@@ -138,16 +139,21 @@ DOMAIN-SUFFIX,trk.pinterest.com
 DOMAIN-SUFFIX,trk2.pinterest.com
 DOMAIN-SUFFIX,widgets.pinterest.com
 DOMAIN-SUFFIX,ads.reddit.com
+DOMAIN-SUFFIX,events.reddit.com
 DOMAIN-SUFFIX,rereddit.com
 DOMAIN-SUFFIX,events.redditmedia.com
 DOMAIN-SUFFIX,d.reddit.com
 DOMAIN-SUFFIX,ads-sg.tiktok.com
+DOMAIN-SUFFIX,business-api.tiktok.com
 DOMAIN-SUFFIX,analytics-sg.tiktok.com
 DOMAIN-SUFFIX,ads.tiktok.com
 DOMAIN-SUFFIX,analytics.tiktok.com
+DOMAIN-SUFFIX,log.byteoversea.com
 DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,youtube.cleverads.vn
 DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,udc.yahoo.com
+DOMAIN-SUFFIX,udcm.yahoo.com
 DOMAIN-SUFFIX,adserver.yahoo.com
 DOMAIN-SUFFIX,global.adserver.yahoo.com
 DOMAIN-SUFFIX,us.adserver.yahoo.com
@@ -191,6 +197,9 @@ DOMAIN-SUFFIX,share.yandex.ru
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,mobile.yandexadexchange.net
 DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
+DOMAIN-SUFFIX,bdapi-ads.realmemobile.com
+DOMAIN-SUFFIX,iot-logser.realme.com
+DOMAIN-SUFFIX,iot-eu-logser.realme.com
 DOMAIN-SUFFIX,adsfs.oppomobile.com
 DOMAIN-SUFFIX,adx.ads.oppomobile.com
 DOMAIN-SUFFIX,bdapi.ads.oppomobile.com
@@ -222,7 +231,8 @@ DOMAIN-SUFFIX,metrics1.data.hicloud.com
 DOMAIN-SUFFIX,metrics2.data.hicloud.com
 DOMAIN-SUFFIX,metrics3.data.hicloud.com
 DOMAIN-SUFFIX,metrics4.data.hicloud.com
-DOMAIN-SUFFIX,metrics5.data.hicloud.com 
+DOMAIN-SUFFIX,metrics5.data.hicloud.com
+DOMAIN-SUFFIX,grs.hicloud.com
 DOMAIN-SUFFIX,logservice.hicloud.com
 DOMAIN-SUFFIX,logservice1.hicloud.com
 DOMAIN-SUFFIX,metrics-dra.dt.hicloud.com
@@ -241,6 +251,8 @@ DOMAIN-SUFFIX,config.samsungads.com
 DOMAIN-SUFFIX,metrics.apple.com
 DOMAIN-SUFFIX,securemetrics.apple.com
 DOMAIN-SUFFIX,supportmetrics.apple.com
+DOMAIN-SUFFIX,weather-analytics-events.apple.com
+DOMAIN-SUFFIX,notes-analytics-events.apple.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics.mzstatic.com
 DOMAIN-SUFFIX,dzc-metrics.mzstatic.com
